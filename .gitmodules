@@ -1,0 +1,3 @@
+[submodule "US-Mortality-Insight-Dashboard"]
+	path = US-Mortality-Insight-Dashboard
+	url = https://github.com/NikhilRasmalla/US-Mortality-Insight-Dashboard.git
