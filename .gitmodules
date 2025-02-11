@@ -1,3 +1,9 @@
 [submodule "US-Mortality-Insight-Dashboard"]
 	path = US-Mortality-Insight-Dashboard
 	url = https://github.com/NikhilRasmalla/US-Mortality-Insight-Dashboard.git
+[submodule "ai-network-anomaly-detection"]
+	path = ai-network-anomaly-detection
+	url = https://github.com/NikhilRasmalla/NN-Based-Network-Anamoly-Detection.git
+[submodule "mediledger-healthcare-blockchain"]
+	path = mediledger-healthcare-blockchain
+	url = https://github.com/NikhilRasmalla/Medi-Ledger.git
